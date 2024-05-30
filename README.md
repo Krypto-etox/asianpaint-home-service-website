@@ -24,6 +24,9 @@ The website is built using the following technologies:
 - HTML5
 - CSS3 (SCSS)
 - JavaScript
+- SCSS
+- BootStrap
+- PHP
 
 ## How to Use
 
